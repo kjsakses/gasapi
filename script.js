@@ -1,5 +1,5 @@
 var gData;
-var url =  'https://docs.google.com/spreadsheets/d/1YFwRSTHPIbqC32rQF571MSn8DgU7kfiAt2gwhljXtew/edit?gid=0#gid=0' 
+var url =  'https://script.google.com/macros/s/AKfycby-9afHGcd3gnjXBhBBr3TFaAqkb_VZhJ3HzmbBfWxWdzXx-ArYcGVSzPdc4tuNEHq7Gg/exec' 
 
   function getDataAPI() {  
     $('#d_table').html('<div class="col">Please Wait.....</div>') 
